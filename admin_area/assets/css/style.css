@@ -1,0 +1,37 @@
+.form-outline{
+    margin-bottom: 50px;
+}
+.input-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.labels label{
+    font-size: 30px;
+    color: black;
+}
+
+.form_control{
+    width: 300px;
+}
+
+.buttons{
+    background: black;
+align-items: center;
+justify-content: center;
+border: 1px solid rgb(21, 10, 74);
+border-radius: 5px;
+width: 300px;
+height: 400px;
+position: relative;
+right: 300px;
+
+}
+
+.category{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: o;
+    color: rgb(26, 26, 209);
+}
