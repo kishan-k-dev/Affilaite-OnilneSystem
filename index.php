@@ -2067,7 +2067,7 @@ echo "
 
               <img src="./assets/images/logo/head1.jpg" alt="alan doe" class="testimonial-banner" width="80" height="80">
 
-              <p class="testimonial-name">Mr_Pavan</p>
+              <p class="testimonial-name">Mr_Macchu</p>
 
               <p class="testimonial-title">CEO & Founder Invision</p>
 
